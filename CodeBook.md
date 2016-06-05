@@ -12,6 +12,7 @@ Description about the data can be found [here](http://archive.ics.uci.edu/ml/dat
 
 #Transformations
 The data set was transformed in the following ways:
+
 1. Only mean and standard deviation measurements were extracted for the `test` and `train` data.
 2. Both the `test` and `train` data were appropriately labeled.
 3. The `test` and `train` data were merged.
